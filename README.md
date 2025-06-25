@@ -69,6 +69,9 @@ For more details, refer to docs/requirements.md.
 
 # 📂 Repository Structure
 
+# Project Structure
+
+```plaintext
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
